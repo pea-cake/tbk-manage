@@ -1,5 +1,6 @@
-# tbk 管理系统
-包含admin前端和server服务端
+# tbk 管理系统-转链、订单后台管理
+包含admin前端和server服务端  
+淘宝客返利系统,请看([这里](https://github.com/pea-cake/tbk))
 ### 环境准备
 
 - vue-cli v4.2.3
