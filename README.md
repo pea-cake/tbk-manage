@@ -1,3 +1,5 @@
+# tbk 管理系统
+包含admin前端和server服务端
 ### 环境准备
 
 - vue-cli v4.2.3
