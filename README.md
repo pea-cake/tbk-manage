@@ -37,3 +37,10 @@ $ npm run serve
 http://localhost:8090 打开后台本地页面。
 
 第一次后台admin登陆时请先注册用户，登录后可以将注册按钮隐藏以防登录账户泄露。
+
+系统截图：  
+
+![image](https://user-images.githubusercontent.com/58544092/197322244-3db634f8-fdce-491c-8339-6ea9bdfdab75.png)
+
+![image](https://user-images.githubusercontent.com/58544092/197322205-74d8f0e6-9798-43c9-af7b-a567a3144fde.png)
+
